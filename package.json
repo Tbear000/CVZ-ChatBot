@@ -1,0 +1,23 @@
+{
+  "name": "cvz-chatbot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot to satisfy my needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Tbear000/CVZ-ChatBot"
+  },
+  "author": "Tbear000",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.18.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
